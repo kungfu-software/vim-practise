@@ -1,8 +1,6 @@
 # vim-practise
 
-This tutorial is based on [openvim](http://www.openvim.com/tutorial.html)
-
-### 16-Sep-2015 Basics
+### 16-Sep-2015 Basics This tutorial is based on [openvim](http://www.openvim.com/tutorial.html)
 - Two modes, insert (i) and normal (esc)
 - Basic movement: h, j, k, and l
 - Word movement: w, e, b
