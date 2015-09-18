@@ -3,7 +3,7 @@
 
 ### 17-Sep-2015 
 
-#### NERDTree
+##### NERDTree
 Keyboard Commands
 - t: Open the selected file in a new tab
 - i: Open the selected file in a horizontal split window
@@ -20,7 +20,7 @@ Switch between tabs
 Switch between main Editor and NERDTree window
 - ctrl+ww cycle though all open windows
 
-#### Column Edit
+##### Column Edit
 To edit a column, follow these steps:
 - Stand on the beginning of the column
 - Press Ctrl+Shift+v, then mark across the column you want to edit.
@@ -28,7 +28,8 @@ To edit a column, follow these steps:
 - Hit ESC when done.
 
 
-### 16-Sep-2015 Basics This tutorial is based on [openvim](http://www.openvim.com/tutorial.html)
+### 16-Sep-2015 Basics 
+#### This tutorial is based on [openvim](http://www.openvim.com/tutorial.html)
 - Two modes, insert (i) and normal (esc)
 - Basic movement: h, j, k, and l
 - Word movement: w, e, b
