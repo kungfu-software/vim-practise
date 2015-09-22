@@ -17,6 +17,12 @@
 - :%s/foo/bar/gc(i|I)   -- entire file + confirmation + case insensitive
 - [See more](http://vim.wikia.com/wiki/Search_and_replace)
 
+##### Edit files and navigate between them
+- :e ~/.vimrc  or :e ~/.profile or :e .
+- :ls  -- list all the files in the buffer
+- :bn : bp or :b1 :b2 ... --navigate between buffers
+- :bd or :bd! --close only one buffer
+
 
 ### 17-Sep-2015 
 
