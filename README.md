@@ -1,5 +1,22 @@
 # vim-practise
 
+### 22-sep-2015 
+
+##### More basics
+^E - scroll the window down
+^Y - scroll the window up
+^F - scroll down one page
+^B - scroll up one page
+H - move cursor to the top of the window
+M - move cursor to the middle of the window
+L - move cursor to the bottom of the window
+gg - go to top of file
+
+##### Substitude
+:s/foo/bar/gc    -- one line + confirmation
+:%s/foo/bar/gc(i|I)   -- entire file + confirmation + case insensitive
+[See more](http://vim.wikia.com/wiki/Search_and_replace)
+
 
 ### 17-Sep-2015 
 
