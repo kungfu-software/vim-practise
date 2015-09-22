@@ -3,14 +3,14 @@
 ### 22-sep-2015 
 
 ##### More basics
-^E - scroll the window down
-^Y - scroll the window up
-^F - scroll down one page
-^B - scroll up one page
-H - move cursor to the top of the window
-M - move cursor to the middle of the window
-L - move cursor to the bottom of the window
-gg - go to top of file
+- ^E - scroll the window down
+- ^Y - scroll the window up
+- ^F - scroll down one page
+- ^B - scroll up one page
+- H - move cursor to the top of the window
+- M - move cursor to the middle of the window
+- L - move cursor to the bottom of the window
+- gg - go to top of file
 
 ##### Substitude
 :s/foo/bar/gc    -- one line + confirmation
