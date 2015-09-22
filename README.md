@@ -13,9 +13,9 @@
 - gg - go to top of file
 
 ##### Substitude
-:s/foo/bar/gc    -- one line + confirmation
-:%s/foo/bar/gc(i|I)   -- entire file + confirmation + case insensitive
-[See more](http://vim.wikia.com/wiki/Search_and_replace)
+- :s/foo/bar/gc    -- one line + confirmation
+- :%s/foo/bar/gc(i|I)   -- entire file + confirmation + case insensitive
+- [See more](http://vim.wikia.com/wiki/Search_and_replace)
 
 
 ### 17-Sep-2015 
