@@ -1,5 +1,14 @@
 # vim-practise
 
+### 23-sep-2015 
+
+##### Tabs in Vim
+- :tabe 1.txt  -- open a file in the tab
+- :gt or gT    -- navigate between tab
+- :q or :w or :wq or :x -- quit, save, save-quit a tab
+- 
+
+
 ### 22-sep-2015 
 
 ##### More basics
